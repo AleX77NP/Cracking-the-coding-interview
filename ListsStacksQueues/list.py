@@ -61,3 +61,40 @@ def nth_latest(list, n):
     return p.data
 
 print(nth_latest(list, 2))
+
+
+a = Node(1, None)
+b = Node(2, None)
+c = Node(3, None)
+d = Node(4, None)
+
+a.next = b
+b.next = c
+c.next = d
+d.next = b
+
+clist = LinkedList()
+clist.head = a
+
+# circula list - return node at the start of loop
+
+def find_start(list):
+    n1 = list.head
+    n2 = list.head 
+
+    while n2.next is not None:
+        n1.next = n2.next
+        n2.next = n2.next.next
+        if (n1 == n2):
+            break
+    
+    if n2 is None:
+        return None
+    
+    n1 = list.head
+    while n1 != n2:
+        n1 = n1.next
+        n2 = n2.next
+    return n1.data
+
+print(find_start(clist))
