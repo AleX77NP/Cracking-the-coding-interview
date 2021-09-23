@@ -44,7 +44,7 @@ def remove_duplicates(list):
         temp = temp.next
 
 remove_duplicates(list)
-list.display()
+# list.display()
 
 # find nth latest
 
@@ -60,7 +60,7 @@ def nth_latest(list, n):
         p = p.next
     return p.data
 
-print(nth_latest(list, 2))
+# print(nth_latest(list, 2))
 
 
 a = Node(1, None)
@@ -97,4 +97,47 @@ def find_start(list):
         n2 = n2.next
     return n1.data
 
-print(find_start(clist))
+# print(find_start(clist))
+
+# reverse linked list
+
+x = Node(100, None)
+y = Node(200, None)
+z = Node(300, None)
+w = Node(400, None)
+x.next = y
+y.next = z
+z.next = w
+
+l = LinkedList()
+l.head = x
+
+# 100 -> 200 -> 300 -> 400 should become 400 -> 300 -> 200 -> 100
+
+def reverse(list):
+    p1 = list.head
+    if p1 is None:
+        return None
+    if p1.next is None:
+        return l
+    
+    p2 = p1.next
+    temp = p2
+    
+    while p2.next is not None:
+        if p1.data == list.head.data:
+            p1.next = None
+        temp = p2.next
+        p2.next = p1
+        p1 = p2
+        p2 = temp
+    
+    p2.next = p1
+    list.head = p2
+    return list
+
+r = reverse(l)
+l.display()
+
+
+
