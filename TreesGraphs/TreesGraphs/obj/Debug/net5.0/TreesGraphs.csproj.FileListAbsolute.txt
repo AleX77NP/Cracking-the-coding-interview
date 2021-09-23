@@ -1,0 +1,15 @@
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/TreesGraphs.deps.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/TreesGraphs.runtimeconfig.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/TreesGraphs.runtimeconfig.dev.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/TreesGraphs.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/ref/TreesGraphs.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/bin/Debug/net5.0/TreesGraphs.pdb
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.csproj.AssemblyReference.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.AssemblyInfoInputs.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.AssemblyInfo.cs
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.csproj.CoreCompileInputs.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/ref/TreesGraphs.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.pdb
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/TreesGraphs/TreesGraphs/obj/Debug/net5.0/TreesGraphs.genruntimeconfig.cache
