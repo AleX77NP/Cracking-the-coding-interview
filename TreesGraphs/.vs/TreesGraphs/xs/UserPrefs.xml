@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{81D9C12A-1EE2-4DAF-B8EA-29BAEAB9D5C6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TreesGraphs/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TreesGraphs/Tree.cs">
     <Files>
-      <File FileName="TreesGraphs/Program.cs" Line="14" Column="28" />
-      <File FileName="TreesGraphs/Tree.cs" />
+      <File FileName="TreesGraphs/Program.cs" Line="65" Column="21" />
+      <File FileName="TreesGraphs/Tree.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TreesGraphs" expanded="True">
             <Node name="TreesGraphs" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Tree.cs" selected="True" />
             </Node>
           </Node>
         </State>

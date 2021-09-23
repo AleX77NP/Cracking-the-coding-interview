@@ -62,6 +62,8 @@ namespace TreesGraphs
             
         }
 
+        // Min value
+
         public static int MinElem(BinaryTreeNode t)
         {
             BinaryTreeNode temp = t;
