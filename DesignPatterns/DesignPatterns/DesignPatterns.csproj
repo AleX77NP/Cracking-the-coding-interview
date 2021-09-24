@@ -12,6 +12,7 @@
     <None Remove="Facade\" />
     <None Remove="Bridge\" />
     <None Remove="Adapter\" />
+    <None Remove="Observer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Singleton\" />
@@ -20,5 +21,6 @@
     <Folder Include="Facade\" />
     <Folder Include="Bridge\" />
     <Folder Include="Adapter\" />
+    <Folder Include="Observer\" />
   </ItemGroup>
 </Project>

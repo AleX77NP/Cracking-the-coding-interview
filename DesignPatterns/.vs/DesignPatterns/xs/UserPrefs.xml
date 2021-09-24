@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{54C5B270-BD74-4BBE-BBD5-789A34B82E80}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Adapter/Adaptee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Observer/BinaryObserver.cs">
     <Files>
-      <File FileName="DesignPatterns/Program.cs" Line="37" Column="29" />
-      <File FileName="DesignPatterns/Adapter/Target.cs" Line="14" Column="1" />
-      <File FileName="DesignPatterns/Adapter/Adapter.cs" Line="14" Column="1" />
-      <File FileName="DesignPatterns/Adapter/Adaptee.cs" Line="7" Column="7" />
+      <File FileName="DesignPatterns/Program.cs" Line="60" Column="25" />
+      <File FileName="DesignPatterns/Observer/Subject.cs" Line="32" Column="2" />
+      <File FileName="DesignPatterns/Observer/IObserver.cs" Line="11" Column="1" />
+      <File FileName="DesignPatterns/Observer/DecimalObserver.cs" Line="13" Column="67" />
+      <File FileName="DesignPatterns/Observer/BinaryObserver.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="DesignPatterns" expanded="True">
-              <Node name="Adapter" expanded="True">
-                <Node name="Adaptee.cs" selected="True" />
+              <Node name="Observer" expanded="True">
+                <Node name="BinaryObserver.cs" selected="True" />
               </Node>
             </Node>
           </Node>

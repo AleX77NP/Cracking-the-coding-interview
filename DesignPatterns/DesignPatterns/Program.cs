@@ -3,6 +3,7 @@ using DesignPatterns.Adapter;
 using DesignPatterns.Bridge;
 using DesignPatterns.Facade;
 using DesignPatterns.FactoryPattern;
+using DesignPatterns.Observer;
 using DesignPatterns.Singleton;
 using DesignPatterns.Strategy;
 
@@ -58,7 +59,17 @@ namespace DesignPatterns
             // Adapter demo
             Target t = new MyAdapter();
             t.Request();
-            
+
+            // Observer demo
+            Subject sb = new Subject();
+
+            new DecimalObserver(sb);
+            new BinaryObserver(sb);
+
+            Console.WriteLine("First value is 10");
+            sb.SetState(10);
+            Console.WriteLine("Second value is 100");
+            sb.SetState(100);
         }
     }
 }
