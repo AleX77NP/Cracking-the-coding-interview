@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Singleton\" />
+    <None Remove="FactoryPattern\" />
+    <None Remove="Strategy\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Singleton\" />
+    <Folder Include="FactoryPattern\" />
+    <Folder Include="Strategy\" />
+  </ItemGroup>
+</Project>

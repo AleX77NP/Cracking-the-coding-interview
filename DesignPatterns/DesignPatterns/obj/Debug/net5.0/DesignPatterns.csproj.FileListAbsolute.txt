@@ -1,0 +1,15 @@
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/DesignPatterns.deps.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/DesignPatterns.runtimeconfig.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/DesignPatterns.runtimeconfig.dev.json
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/DesignPatterns.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/ref/DesignPatterns.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/bin/Debug/net5.0/DesignPatterns.pdb
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.csproj.AssemblyReference.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.AssemblyInfo.cs
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/ref/DesignPatterns.dll
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.pdb
+/Users/aleksandar77np/Desktop/Cracking-the-coding-interview/DesignPatterns/DesignPatterns/obj/Debug/net5.0/DesignPatterns.genruntimeconfig.cache

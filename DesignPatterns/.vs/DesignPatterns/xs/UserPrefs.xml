@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{54C5B270-BD74-4BBE-BBD5-789A34B82E80}|Default">
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Strategy/Context.cs">
+    <Files>
+      <File FileName="DesignPatterns/Program.cs" Line="35" Column="1" />
+      <File FileName="DesignPatterns/Strategy/AddOperation.cs" Line="13" Column="1" />
+      <File FileName="DesignPatterns/Strategy/OperationSubstract.cs" Line="13" Column="1" />
+      <File FileName="DesignPatterns/Strategy/Context.cs" Line="6" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="DesignPatterns" expanded="True">
+              <Node name="FactoryPattern" expanded="True" />
+              <Node name="Singleton" expanded="True" />
+              <Node name="Strategy" expanded="True">
+                <Node name="Context.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
