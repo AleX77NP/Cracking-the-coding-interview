@@ -1,4 +1,7 @@
 ﻿using System;
+using DesignPatterns.Adapter;
+using DesignPatterns.Bridge;
+using DesignPatterns.Facade;
 using DesignPatterns.FactoryPattern;
 using DesignPatterns.Singleton;
 using DesignPatterns.Strategy;
@@ -39,6 +42,23 @@ namespace DesignPatterns
             ctx.Execute(m, n);
             ctx = new Context(new OperationSubstract());
             ctx.Execute(m, n);
+
+            // Facade demo
+            WriterMaker wm = new WriterMaker();
+            wm.WriteToFile();
+            wm.WriteToDb();
+
+            // Bridge demo
+            Vehicle v1 = new Car(new Assemble(), new Produce());
+            Vehicle v2 = new Bike(new Assemble(), new Produce());
+
+            v1.Infrastructure();
+            v2.Infrastructure();
+
+            // Adapter demo
+            Target t = new MyAdapter();
+            t.Request();
+            
         }
     }
 }

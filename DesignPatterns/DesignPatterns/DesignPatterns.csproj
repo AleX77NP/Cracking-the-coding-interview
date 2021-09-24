@@ -9,10 +9,16 @@
     <None Remove="Singleton\" />
     <None Remove="FactoryPattern\" />
     <None Remove="Strategy\" />
+    <None Remove="Facade\" />
+    <None Remove="Bridge\" />
+    <None Remove="Adapter\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Singleton\" />
     <Folder Include="FactoryPattern\" />
     <Folder Include="Strategy\" />
+    <Folder Include="Facade\" />
+    <Folder Include="Bridge\" />
+    <Folder Include="Adapter\" />
   </ItemGroup>
 </Project>
